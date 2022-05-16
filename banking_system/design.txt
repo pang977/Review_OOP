@@ -1,0 +1,12 @@
+Bangking System Using OOP (Python)
+
+Parent Class : User
+
+     - Holds details about an User
+     - Has a function to show user details
+
+Child Class : Bangking
+
+     - Stores details about the account balance
+     - Stores details about the amount
+     - Allows for deposits.withdraw.view_balance
